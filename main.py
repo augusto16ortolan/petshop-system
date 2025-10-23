@@ -3,6 +3,8 @@ import funcoes
 # criamos uma lista global para usar em todas as funções
 pets = []
 
+#comentario
+
 def main():
 
     # carregamento dos dados
